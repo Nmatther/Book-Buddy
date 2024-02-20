@@ -15,7 +15,7 @@ const Footer = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Jatin Yadav
+            Matthew Richardson
           </a>
         </h4>
       </footer>
